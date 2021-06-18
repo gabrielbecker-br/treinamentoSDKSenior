@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "gSerrgetHkOeHcmVacationmanagementUpdateVacationrequestupdate": {
+            "PhysicalId": {
+                "us-east-1": "gSerrgetHkOeHcmVacationmanagementUpdateVacationrequestupdate"
+            }
+        }
+    }
+}

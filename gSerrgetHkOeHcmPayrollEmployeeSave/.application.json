@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "gSerrgetHkOeHcmPayrollEmployeeSave": {
+            "PhysicalId": {
+                "us-east-1": "gSerrgetHkOeHcmPayrollEmployeeSave"
+            }
+        }
+    }
+}

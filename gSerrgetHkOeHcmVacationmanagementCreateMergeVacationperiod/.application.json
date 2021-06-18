@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "gSerrgetHkOeHcmVacationmanagementCreateMergeVacationperiod": {
+            "PhysicalId": {
+                "us-east-1": "gSerrgetHkOeHcmVacationmanagementCreateMergeVacationperiod"
+            }
+        }
+    }
+}
